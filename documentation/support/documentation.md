@@ -4,4 +4,4 @@ Documentation is currently being written for Smart!. You can find it all in one 
 
 Contents of this documentation should match the !help categories that ProBot is serving on the Discord server.
 
-Please visit <https://github.com/SmartFoundations/SmartIssueTracker/documentation> to browse!
+Please visit <https://github.com/SmartFoundations/SmartIssueTracker/tree/main/documentation> to browse!
