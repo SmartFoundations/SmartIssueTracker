@@ -9,6 +9,7 @@ Support:
 !bugreport - Details on how to report a bug
 *!troubleshooting - How to troubleshoot your installation and configuration
 *!knownissues - What are the current known issues?
+!documentation - Where you can find all these topics and more covered in one place
 
 Installation:
 *!release - Install the latest release from Satisfactory Mod Manager
