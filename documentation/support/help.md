@@ -29,4 +29,4 @@ Contribute:
 !contribute - How to support development and the developer
 
 Other:
-*!funquotes - Fun things Alex said about the mod and his development journey
+!funquotes - Fun things Alex said about the mod and his development journey
