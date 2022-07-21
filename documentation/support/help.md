@@ -7,7 +7,8 @@ Support:
 *!overview- Broad description of Smart!, scope, and design choices
 !featurerequest - Details on how to request a feature
 *!bugreport - Details on how to report a bug
-*Known issues
+*!troubleshooting - How to troubleshoot your installation and configuration
+*!knownissues - What are the current known issues?
 
 Installation:
 *!release - Install the latest release from Satisfactory Mod Manager
