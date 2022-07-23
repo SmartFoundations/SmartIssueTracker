@@ -12,7 +12,8 @@ Support:
 !documentation - Where you can find all these topics and more covered in one place
 
 Installation:
-*!release - Install the latest release from Satisfactory Mod Manager
+!install - Find details on how to install Smart!
+!release - Install the latest release from Satisfactory Mod Manager
 !prerelease - Install a pre-release version occasionally offered in Discord by the developer
 
 Smart! features:
