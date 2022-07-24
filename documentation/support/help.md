@@ -15,6 +15,8 @@ Installation:
 !install - Find details on how to install Smart!
 !release - Install the latest release from Satisfactory Mod Manager
 !prerelease - Install a pre-release version occasionally offered in Discord by the developer
+!keybinds - Configure Smart! to use the buttons of your choice
+!settings - Change how Smart! can most efficiently make you efficient!
 
 Smart! features:
 *!autoconnect - Autoconnect splitters and mergers to one or more buildings with belts
@@ -32,4 +34,5 @@ Contribute:
 !contribute - How to support development and the developer
 
 Other:
+!development - Most recent update on next steps for the mod.
 !funquotes - Fun things Alex said about the mod and his development journey
