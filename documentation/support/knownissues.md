@@ -1,3 +1,7 @@
+[user]
+
 Known Issues
 
-1. Keybind for Left Alt is not working in GUI
+To find the complete list of known issues, please visit Link: <https://github.com/SmartFoundations/SmartIssueTracker/issues>
+
+If you cannot find an issue that you expect to see, then please assume that it is not known and report it! For instructions, type !bugreport

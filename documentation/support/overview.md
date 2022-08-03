@@ -11,12 +11,9 @@ Smart! is designed to make building your factory less tedious!  It does this by 
 
 -- What Smart! Doesn't Do --
 
-Smart! does not facilitate cheating!
-
-* Will not provide free resources for building.
-* Will not create new inventory slots or change how inventory is managed outside of paying for builds.
-* Will not provide buildings not available in the base game.
-* No other super-powers outside be super-efficiency!
+Smart! does not alter saved games at all, nor make your saved games incompatible with the vanilla game.
+What this means is that if you use Smart! to build your factory, but uninstall it later, the saved game will load just as if Smart! had not been installed.
+This is because Smart! uses only methods for building objects that are used by the game itself, so there is no risk of ruining your saved games!
 
 -- What is in scope for Smart! for the future? --
 
