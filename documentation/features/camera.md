@@ -10,4 +10,4 @@ Use cases:
 2) While using lifts, ensure that the lift is aligned with the input or output of a building in situations where you cannot get a good look at the other end.
 3) Use as a periscope to see what might be on top of that hill before spending time to climb it.  Perhaps creatures or a crash site may be waiting!
 
-A feature demonstration can be found at <https://www.youtube.com/watch?v=bPHYtuWp2aI>
+A feature demonstration can be found at Link: <https://www.youtube.com/watch?v=bPHYtuWp2aI>

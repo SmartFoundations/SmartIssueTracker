@@ -15,4 +15,4 @@ Notes:
 * Extend does not currently support fluid connectors, so pipes and fittings are not copied.
 * Extend expects the buildings to be set up to move items down a line.  As a result, using a splitter that has its input either towards or away from the building will not extend.  Nor will a merger with its output pointing towards or away from the building.  This is because you would not be able to put a valid belt between those splitters and mergers oriented that way.
 
-See video at <https://www.youtube.com/watch?v=UbZfAReW6dU&ab_channel=Smart%21Satisfactorymod> for overview.
+See video at Link: <https://www.youtube.com/watch?v=UbZfAReW6dU&ab_channel=Smart%21Satisfactorymod> for overview.

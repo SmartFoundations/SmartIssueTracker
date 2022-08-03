@@ -30,6 +30,8 @@ If applicable, add screenshots/videos to help explain your problem.
  - Mod Type [e.g. Public, Patreon ]
  - Mod Version [e.g. 16.1 ]
  - SMM/SML Version [e.g. 3.1 ]
+ - Is this in multiplayer (non-private session)?
+ - What other mods are you using?
 
 **Additional context**
 Add any other context about the problem here.

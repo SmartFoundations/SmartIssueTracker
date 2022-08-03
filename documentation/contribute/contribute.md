@@ -10,4 +10,5 @@ An easy way to support development is to thank the developer, Alex. It is nice w
 
 If you really want to contribute to the developer because you found a lot of personal value in the mod, please consider subscribing to the Patreon site.  There are different levels of subscriptions that can allow you to express your appreciation for the mod and its continued support.
 
-<https://www.patreon.com/SmartSatisfactoryMod>
+Link: <https://www.buymeacoffee.com/SmartMod>
+Link: <https://www.patreon.com/SmartMod>
