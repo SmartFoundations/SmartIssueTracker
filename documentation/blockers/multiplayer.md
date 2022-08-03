@@ -1,6 +1,6 @@
 [user]
 
-At this time, Smart! does not support multiplayer.
+At this time, Smart! does not fully support multiplayer.
 
 That said, you may find that some features do, in fact, work in multiplayer. Usually, you will have the most success if you are the host of the session.
 

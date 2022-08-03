@@ -1,3 +1,5 @@
+[user]
+
 Find pre-release updates in Discord before they are released to Satisfactory Mod Manager.
 
 !!! URGENT !!!
