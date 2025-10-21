@@ -1,6 +1,6 @@
 # ![image](https://i.ibb.co/mb6P0BN/Smart-Thumb.png) Smart! Mod
 
-![Status](https://img.shields.io/badge/Status-Alpha%20Testing-yellow) ![Version](https://img.shields.io/badge/Target-Satisfactory%201.1+-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.3-blue) ![SML](https://img.shields.io/badge/SML-3.11.x-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Testing-orange)
+![Status](https://img.shields.io/badge/Status-Release%20Candidate-brightgreen) ![Version](https://img.shields.io/badge/Target-Satisfactory%201.1+-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.3-blue) ![SML](https://img.shields.io/badge/SML-3.11.x-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Testing-orange)
 
 > **Note:** Multiplayer is not currently supported, but under active testing with partial success. Multiplayer support may be added in a future update.
 
@@ -60,7 +60,7 @@ Smart! is being completely rebuilt from the ground up for **Satisfactory 1.1+** 
 
 ## 💬 Join Our Discord Community
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/SgXY4CwXYw)
+[![Discord](https://img.shields.io/discord/799091523173613589?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/SgXY4CwXYw)
 
 **Join the Smart! Discord:** [https://discord.gg/SgXY4CwXYw](https://discord.gg/SgXY4CwXYw)
 
@@ -211,15 +211,22 @@ Smart! uses **native Satisfactory keybinds** that can be customized in **Options
 
 Huge thanks to **Marcio** for all his help from the beginning of my path as mod creator, **TwoTwoEleven** for his awesome code examples from MM, to **Archengius** for his fine example of overriding the default buildings and to **Mircea** for some fine thoughts. Thanks **jay96** for your amazing idea about arrows.
 
-## 💰 Support Smart!
+## 💰 Support Smart! Development
 
-Smart! is a passion project, and we're glad to be able to share it with the world!
+Smart! is a passion project built for the community. This complete rebuild has required significant investment in development expenses (primarily AI compute for code assistance and testing infrastructure) - all funded out of pocket.
 
-This rebuild is developed and maintained by **Finalomega**. If you enjoy this mod and want to support continued development, consider buying me a coffee:
+**Future Development Costs:**
+Continuing work on Phase 2 (Autoconnect), Phase 3 (Extend), and Phase 4 (Camera) will require ongoing investment in development tools and AI-assisted research. If you're enjoying Smart! and want to see these features become reality, your support helps make it sustainable.
 
 ☕ **[Support on Ko-fi](https://ko-fi.com/finalomega)**
 
-Your support helps fund development time, testing infrastructure, and future features. All donations are completely optional and greatly appreciated!
+**What Your Support Enables:**
+- Continued development of planned features
+- Faster updates and bug fixes  
+- Community-requested enhancements
+- Sustainable development pace
+
+No pressure - donations are completely optional. But if Smart! adds value to your game, every contribution helps offset costs and keeps development active. Thank you for your support! 🙏
 
 ---
 
