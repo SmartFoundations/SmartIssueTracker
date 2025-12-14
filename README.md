@@ -1,4 +1,4 @@
-# ![image](https://i.ibb.co/mb6P0BN/Smart-Thumb.png) Smart! Mod
+# ![image](images/Smart-Thumb.png) Smart! Mod
 
 ![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-24.0.0-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.3-blue) ![SML](https://img.shields.io/badge/SML-3.11.x-blue) ![AI Assisted Development Used-See Bottom of Page](https://img.shields.io/badge/AI%20Assisted%20Development%20Used%20-See%20Bottom%20of%20Page%20for%20Disclosure-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Testing-orange)
 
@@ -367,21 +367,25 @@ No pressure - all support is completely optional. But if Smart! adds value to yo
 
 Smart! has had quite a few videos made for it, and we're incredibly appreciative of it!
 
-| Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/watch?v=NyYymsMa5Gg) | Version 20 Overview and Tutorial by [RightMindGamming](https://www.youtube.com/channel/UCfy5lG-teOehpD9oYLjT7rA) | Preview of the new camera feature | Preview of the new lift height counter feature |
-|:---:|:---:|:---:|:---:|
-| [![v21 overview](https://img.youtube.com/vi/NyYymsMa5Gg/hq1.jpg)](https://www.youtube.com/watch?v=NyYymsMa5Gg) | [![v20 tutorial](https://i.ibb.co/RNQDqBM/RMGv20-Tutorial.jpg)](https://www.youtube.com/watch?v=R1nEiSfskPA) | [![camera feature](https://i.ibb.co/wgq4sW7/cameras-screen-small.png)](https://youtu.be/bPHYtuWp2aI) | [![lift height counter feature](https://i.ibb.co/LNTXtWJ/snf-small.png)](https://youtu.be/ZMSZaEa-3No) |
+| Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/watch?v=NyYymsMa5Gg) |
+|:---:|
+| [![v21 overview](images/v21-overview.jpg)](https://www.youtube.com/watch?v=NyYymsMa5Gg) |
+
+| Version 20 Overview and Tutorial by [RightMindGamming](https://www.youtube.com/channel/UCfy5lG-teOehpD9oYLjT7rA) | Preview of the new camera feature | Preview of the new lift height counter feature |
+|:---:|:---:|:---:|
+| [![v20 tutorial](images/v20-tutorial.jpg)](https://www.youtube.com/watch?v=R1nEiSfskPA) | [![camera feature](images/camera-feature.png)](https://youtu.be/bPHYtuWp2aI) | [![lift height counter feature](images/lift-height-counter.png)](https://youtu.be/ZMSZaEa-3No) |
 
 | Version 17 | Version 16 | Version 15 |
 |:---:|:---:|:---:|
-| [![poster for v17](https://i.ibb.co/KjS6Q1D/V-17-Promo-mp4-20210708-090600-306.png)](https://youtu.be/vKPQ5YPPsU8) | [![poster for v16](https://i.ibb.co/pJfhJR2/Preview-Template-Small.jpg)](https://youtu.be/MmkfqByx0i0) | [![poster for v15](https://i.ibb.co/mb2WJNz/Preview-Template-Small.jpg)](https://youtu.be/jxfJR3ullJI) |
+| [![poster for v17](images/v17-poster.png)](https://youtu.be/vKPQ5YPPsU8) | [![poster for v16](images/v16-poster.jpg)](https://youtu.be/MmkfqByx0i0) | [![poster for v15](images/v15-poster.jpg)](https://youtu.be/jxfJR3ullJI) |
 
 | Version 14 | Version 12 | Version 11 |
 |:-:|:-:|:-:|
-|[![poster for v14](https://i.ibb.co/jGG28hx/Preview-Small.jpg)](https://youtu.be/-HbCKSABeWE)|[![poster for v12](https://i.ibb.co/vXXDVst/v-12-small.jpg)](https://youtu.be/thC8RvniApQ)|[![poster for v11](https://i.ibb.co/WcNB78B/V-11-small.jpg)](https://youtu.be/5qE3G4KbJXM)|
+|[![poster for v14](images/v14-poster.jpg)](https://youtu.be/-HbCKSABeWE)|[![poster for v12](images/v12-poster.jpg)](https://youtu.be/thC8RvniApQ)|[![poster for v11](images/v11-poster.jpg)](https://youtu.be/5qE3G4KbJXM)|
 
 | Mod review by [ImKibitz](https://www.youtube.com/channel/UCz9qw5nupdzCGwHwQiqs7qA) | In-depth review by [Magenty](https://www.youtube.com/channel/UCL8hC7X4mpAKdoP5gwdKkBQ) | First review by [TotalXclipse](https://www.youtube.com/channel/UC2SNK_S7tvROHS_KJdIiEFg) |
 |:---:|:---:|:---:|
-| [![Kibitz review](https://i.ibb.co/47ycz1r/kibitz-review-preview.jpg)](https://youtu.be/JSL6kSgzYJk) | [![Magenty review](https://i.ibb.co/Sx3zSjH/magnety-review-preview.jpg)](https://youtu.be/O7jHpKhhqaY) | [![TotalXclipse review](https://i.ibb.co/55nr9T6/Total-Xclipse-review-preview.jpg)](https://youtu.be/wIfhqBxiufk) |
+| [![Kibitz review](images/kibitz-review.jpg)](https://youtu.be/JSL6kSgzYJk) | [![Magenty review](images/magenty-review.jpg)](https://youtu.be/O7jHpKhhqaY) | [![TotalXclipse review](images/totalxclipse-review.jpg)](https://youtu.be/wIfhqBxiufk) |
 
 ---
 
