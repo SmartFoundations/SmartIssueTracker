@@ -367,11 +367,9 @@ No pressure - all support is completely optional. But if Smart! adds value to yo
 
 Smart! has had quite a few videos made for it, and we're incredibly appreciative of it!
 
-| Version 20 Overview and Tutorial by [RightMindGamming](https://www.youtube.com/channel/UCfy5lG-teOehpD9oYLjT7rA) | Preview of the new camera feature | Preview of the new lift height counter feature |
-|:---:|:---:|:---:|
-| [![v20 tutorial](https://i.ibb.co/RNQDqBM/RMGv20-Tutorial.jpg)](https://www.youtube.com/watch?v=R1nEiSfskPA) | [![camera feature](https://i.ibb.co/wgq4sW7/cameras-screen-small.png)](https://youtu.be/bPHYtuWp2aI) | [![lift height counter feature](https://i.ibb.co/LNTXtWJ/snf-small.png)](https://youtu.be/ZMSZaEa-3No) |
-
-Here are some videos for prior versions of Smart!:
+| Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/watch?v=NyYymsMa5Gg) | Version 20 Overview and Tutorial by [RightMindGamming](https://www.youtube.com/channel/UCfy5lG-teOehpD9oYLjT7rA) | Preview of the new camera feature | Preview of the new lift height counter feature |
+|:---:|:---:|:---:|:---:|
+| [![v21 overview](https://img.youtube.com/vi/NyYymsMa5Gg/hq1.jpg)](https://www.youtube.com/watch?v=NyYymsMa5Gg) | [![v20 tutorial](https://i.ibb.co/RNQDqBM/RMGv20-Tutorial.jpg)](https://www.youtube.com/watch?v=R1nEiSfskPA) | [![camera feature](https://i.ibb.co/wgq4sW7/cameras-screen-small.png)](https://youtu.be/bPHYtuWp2aI) | [![lift height counter feature](https://i.ibb.co/LNTXtWJ/snf-small.png)](https://youtu.be/ZMSZaEa-3No) |
 
 | Version 17 | Version 16 | Version 15 |
 |:---:|:---:|:---:|
@@ -380,10 +378,6 @@ Here are some videos for prior versions of Smart!:
 | Version 14 | Version 12 | Version 11 |
 |:-:|:-:|:-:|
 |[![poster for v14](https://i.ibb.co/jGG28hx/Preview-Small.jpg)](https://youtu.be/-HbCKSABeWE)|[![poster for v12](https://i.ibb.co/vXXDVst/v-12-small.jpg)](https://youtu.be/thC8RvniApQ)|[![poster for v11](https://i.ibb.co/WcNB78B/V-11-small.jpg)](https://youtu.be/5qE3G4KbJXM)|
-|v10|v9|v8|
-|[![poster for v10](https://i.ibb.co/C1n8b1j/V-10-small.jpg)](https://youtu.be/ejINdaaRQtU)|[![poster for v9](https://i.ibb.co/5k6vD83/V-9-small.jpg)](https://youtu.be/UQVYEl7d9Tg)|[![poster for v8](https://i.ibb.co/0GYmQz3/V-8-small.jpg)](https://youtu.be/4H0Bbzhq1_E)|
-|v7|v6|v5|
-|[![poster for v7](https://i.ibb.co/mTT1PhY/V7-small.jpg)](https://youtu.be/BQqahJcdKfM)|[![poster for v6](https://i.ibb.co/P6GkWqB/V6-small.jpg)](https://youtu.be/8_H7TJvwJC4)|[![poster for v5](https://i.ibb.co/YRSdCwk/V5-small.jpg)](https://youtu.be/qnLOsYsZOXg)|
 
 | Mod review by [ImKibitz](https://www.youtube.com/channel/UCz9qw5nupdzCGwHwQiqs7qA) | In-depth review by [Magenty](https://www.youtube.com/channel/UCL8hC7X4mpAKdoP5gwdKkBQ) | First review by [TotalXclipse](https://www.youtube.com/channel/UC2SNK_S7tvROHS_KJdIiEFg) |
 |:---:|:---:|:---:|
@@ -396,13 +390,9 @@ Here are some videos for prior versions of Smart!:
 
 **⚠️ Important Notice:** The following documentation is for the **last published version** of Smart! (v21), which was designed for **Satisfactory Update 8**. This version is no longer maintained and is not compatible with Satisfactory 1.1+. The information below is preserved for historical reference and for users still playing on older game versions.
 
-For current development status and features being rebuilt for Satisfactory 1.1+, see the sections above.
+ For current development status and features being rebuilt for Satisfactory 1.1+, see the sections above.
 
 ---
-
-| Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/watch?v=NyYymsMa5Gg) | 
-|:---:|
-| [![v20 tutorial](https://img.youtube.com/vi/NyYymsMa5Gg/hq1.jpg)](https://www.youtube.com/watch?v=NyYymsMa5Gg) | 
 
 ## Overview
 
