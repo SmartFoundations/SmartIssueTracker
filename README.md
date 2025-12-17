@@ -1,6 +1,6 @@
 # <img src="https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/Smart-Logo.png?raw=true" width="150" alt="Smart! Logo"> Smart! Mod
 
-![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-24.0.0-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.3-blue) ![SML](https://img.shields.io/badge/SML-3.11.x-blue) ![AI Assisted Development Used-See Bottom of Page](https://img.shields.io/badge/AI%20Assisted%20Development%20Used%20-See%20Bottom%20of%20Page%20for%20Disclosure-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Testing-orange)
+![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-24.0.3-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.3-blue) ![SML](https://img.shields.io/badge/SML-3.11.x-blue) ![AI Assisted Development Used-See Bottom of Page](https://img.shields.io/badge/AI%20Assisted%20Development%20Used%20-See%20Bottom%20of%20Page%20for%20Disclosure-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Testing-orange)
 
 > **Note:** Multiplayer is not currently supported, but under active testing with partial success. Multiplayer support may be added in a future update.
 
@@ -9,7 +9,7 @@
 ## 🎉 Smart! v24 - Extend Returns!
 
 **Initial Satisfactory 1.1 Compatible Release:** October 21, 2025  
-**Current Build:** v24.0.0 (Scaling + Auto-Connect + Extend)
+**Current Build:** v24.0.3 (Scaling + Auto-Connect + Extend)
 
 Smart! has been completely rebuilt from the ground up for **Satisfactory 1.1+** using Unreal Engine 5.3 and the latest Satisfactory Mod Loader (SML 3.11.x).
 
@@ -92,7 +92,7 @@ Smart! has been completely rebuilt from the ground up for **Satisfactory 1.1+** 
 - Additional building type support
 - Community-requested features
 
-**Get Smart! Now:** 🚀 **v24.0.0 is live!** Download Smart! from Satisfactory Mod Manager to get Scaling, Auto-Connect, and the long-awaited **Extend** feature. Join the Discord for support and updates!
+**Get Smart! Now:** 🚀 **v24.0.3 is live!** Download Smart! from Satisfactory Mod Manager to get Scaling, Auto-Connect, and the long-awaited **Extend** feature. Join the Discord for support and updates!
 
 ---
 
@@ -301,7 +301,7 @@ Smart! uses **native Satisfactory keybinds** that can be customized in **Options
 
 | Action | Default Key | Description |
 |--------|-------------|-------------|
-| Toggle Arrows | `NumPad 0` | Show/hide axis direction arrows on holograms |
+| Toggle Arrows | `NumPad 1` | Show/hide axis direction arrows on holograms |
 
 **Note:** All keybinds can be customized in-game via **Options > Keybindings > Smart! Scaling Controls**
 
