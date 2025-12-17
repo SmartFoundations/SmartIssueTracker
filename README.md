@@ -6,6 +6,59 @@
 
 ---
 
+## 🚀 What is Smart!?
+
+**Smart! is the factory builder's multitool** — it lets you place hundreds of buildings in seconds with automatic belt, pipe, and power connections.
+
+### The Problem
+Building large factories in vanilla Satisfactory requires **hundreds of repetitive clicks**:
+- Placing a 10×10 foundation grid = 100 clicks
+- Connecting 8 machines to splitters = 16+ belt segments
+- Wiring up power poles = tedious manual connections
+
+### The Smart! Solution
+- **One click = entire grid** — Place 100 foundations, 20 machines, or a wall of storage in a single click
+- **Automatic connections** — Belts, pipes, and power wire themselves to nearby buildings
+- **Clone entire setups** — Duplicate a complete manifold (machines + distributors + belts) instantly
+- **No cheating** — You still pay full resource costs; Smart! just saves your time, not your materials
+- **Vanilla-friendly** — Smart! only places standard game buildings; remove the mod anytime without breaking your save
+
+### Who Is Smart! For?
+- 🏭 **Megabase builders** — Scale up without carpal tunnel
+- 🎨 **Aesthetic builders** — Create curved roads, spiral ramps, and diagonal patterns
+- ⚡ **Efficiency players** — Spend time optimizing ratios, not clicking foundations
+- 🆕 **New players** — Visual panel interface means no keybinds to memorize
+
+📖 **Ready to learn?** Check out the **[Smart! User's Guide](https://github.com/SmartFoundations/SmartIssueTracker/wiki)** — step-by-step tutorials for every feature, from Getting Started to advanced techniques.
+
+---
+
+## 🎬 See Smart! in Action
+
+| Smart! Feature Spotlight by [Enderprise Architecture](https://www.youtube.com/@EnderpriseArchitecture) | Smart V22 Overview by [RightMindGamming](https://www.youtube.com/@rightmindgamming) |
+|:---:|:---:|
+| [![Smart! Feature Spotlight](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/enderprise-spotlight.jpg?raw=true)](https://www.youtube.com/watch?v=U5PNgasYbP8) | [![Smart V22 Overview](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v22-overview.jpg?raw=true)](https://www.youtube.com/watch?v=QZVNIQXYnNg) |
+
+*More videos in the [Videos](#-videos) section below.*
+
+---
+
+## 📰 Recent News
+
+### 📖 Smart! User's Guide Now Available
+New to Smart! or want to master advanced features? The **[Smart! User's Guide](https://github.com/SmartFoundations/SmartIssueTracker/wiki)** is now live with step-by-step tutorials for every feature.
+
+### 🔄 Extend is Back! (v24.0.0)
+The long-awaited **Extend** feature has returned in Smart! v24! Clone entire manifolds — machines, distributors, belts, and pipes — with a single click. Point at an existing setup, and Smart! duplicates the whole thing.
+
+### 🎛️ Smart! Panel (v24.0.0)
+New visual settings interface! Press **K** to open the panel and adjust all Smart! options without memorizing keybinds. Perfect for new users or when you need precise control.
+
+### 🔃 Rotation Transform (v24.0.0)
+Create curved roads, spiral ramps, and circular arrangements. Set a rotation angle and watch your grid curve automatically.
+
+---
+
 ## 🎉 Smart! v24 - Extend Returns!
 
 **Initial Satisfactory 1.1 Compatible Release:** October 21, 2025  
@@ -367,13 +420,21 @@ No pressure - all support is completely optional. But if Smart! adds value to yo
 
 Smart! has had quite a few videos made for it, and we're incredibly appreciative of it!
 
-| Smart! Feature Spotlight by [Enderprise Architecture](https://www.youtube.com/@EnderpriseArchitecture) | Smart V22 Overview by [RightMindGamming](https://www.youtube.com/@rightmindgamming) | Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/@rightmindgamming) |
-|:---:|:---:|:---:|
-| [![Smart! Feature Spotlight](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/enderprise-spotlight.jpg?raw=true)](https://www.youtube.com/watch?v=U5PNgasYbP8) | [![Smart V22 Overview](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v22-overview.jpg?raw=true)](https://www.youtube.com/watch?v=QZVNIQXYnNg) | [![v21 overview](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v21-overview.jpg?raw=true)](https://www.youtube.com/watch?v=NyYymsMa5Gg) |
+**Smart! for Satisfactory 1.1+** — These videos cover the completely rebuilt Smart! mod:
 
-| Version 20 Overview and Tutorial by [RightMindGamming](https://www.youtube.com/channel/UCfy5lG-teOehpD9oYLjT7rA) | Preview of the new camera feature | Preview of the new lift height counter feature |
-|:---:|:---:|:---:|
-| [![v20 tutorial](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v20-tutorial.jpg?raw=true)](https://www.youtube.com/watch?v=R1nEiSfskPA) | [![camera feature](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/camera-feature.png?raw=true)](https://youtu.be/bPHYtuWp2aI) | [![lift height counter feature](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/lift-height-counter.png?raw=true)](https://youtu.be/ZMSZaEa-3No) |
+| Smart! Feature Spotlight by [Enderprise Architecture](https://www.youtube.com/@EnderpriseArchitecture) | Smart V22 Overview by [RightMindGamming](https://www.youtube.com/@rightmindgamming) |
+|:---:|:---:|
+| [![Smart! Feature Spotlight](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/enderprise-spotlight.jpg?raw=true)](https://www.youtube.com/watch?v=U5PNgasYbP8) | [![Smart V22 Overview](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v22-overview.jpg?raw=true)](https://www.youtube.com/watch?v=QZVNIQXYnNg) |
+
+**Legacy Smart! (Update 8 and earlier)** — Historical videos from the original Smart! mod:
+
+| Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/@rightmindgamming) | Version 20 Overview and Tutorial by [RightMindGamming](https://www.youtube.com/@rightmindgamming) |
+|:---:|:---:|
+| [![v21 overview](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v21-overview.jpg?raw=true)](https://www.youtube.com/watch?v=NyYymsMa5Gg) | [![v20 tutorial](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v20-tutorial.jpg?raw=true)](https://www.youtube.com/watch?v=R1nEiSfskPA) |
+
+| Preview of the new camera feature | Preview of the new lift height counter feature |
+|:---:|:---:|
+| [![camera feature](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/camera-feature.png?raw=true)](https://youtu.be/bPHYtuWp2aI) | [![lift height counter feature](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/lift-height-counter.png?raw=true)](https://youtu.be/ZMSZaEa-3No) |
 
 | Version 17 | Version 16 | Version 15 |
 |:---:|:---:|:---:|
