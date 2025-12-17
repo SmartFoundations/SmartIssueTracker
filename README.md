@@ -1,4 +1,4 @@
-# ![image](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/Smart-Logo.png?raw=true) Smart! Mod
+# <img src="https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/Smart-Logo.png?raw=true" width="150" alt="Smart! Logo"> Smart! Mod
 
 ![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-24.0.0-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.3-blue) ![SML](https://img.shields.io/badge/SML-3.11.x-blue) ![AI Assisted Development Used-See Bottom of Page](https://img.shields.io/badge/AI%20Assisted%20Development%20Used%20-See%20Bottom%20of%20Page%20for%20Disclosure-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Testing-orange)
 
