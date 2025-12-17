@@ -367,9 +367,9 @@ No pressure - all support is completely optional. But if Smart! adds value to yo
 
 Smart! has had quite a few videos made for it, and we're incredibly appreciative of it!
 
-| Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/watch?v=NyYymsMa5Gg) |
-|:---:|
-| [![v21 overview](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v21-overview.jpg?raw=true)](https://www.youtube.com/watch?v=NyYymsMa5Gg) |
+| Smart! Feature Spotlight by [Enderprise Architecture](https://www.youtube.com/@EnderpriseArchitecture) | Version 21 (Improved Nudge Mode) Overview by [RightMindGamming](https://www.youtube.com/watch?v=NyYymsMa5Gg) |
+|:---:|:---:|
+| [![Smart! Feature Spotlight](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/enderprise-spotlight.jpg?raw=true)](https://www.youtube.com/watch?v=U5PNgasYbP8) | [![v21 overview](https://github.com/SmartFoundations/SmartIssueTracker/blob/main/images/v21-overview.jpg?raw=true)](https://www.youtube.com/watch?v=NyYymsMa5Gg) |
 
 | Version 20 Overview and Tutorial by [RightMindGamming](https://www.youtube.com/channel/UCfy5lG-teOehpD9oYLjT7rA) | Preview of the new camera feature | Preview of the new lift height counter feature |
 |:---:|:---:|:---:|
