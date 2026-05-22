@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open a Smart! issue in the active repository
+    url: https://github.com/majormer/SmartFoundations/issues/new/choose
+    about: Smart! issues have moved. Please open all new bug reports and feature requests in the active SmartFoundations repository.
+  - name: View the active Smart! repository
+    url: https://github.com/majormer/SmartFoundations
+    about: Smart! source, documentation, wiki, releases, and current issue tracking now live here.

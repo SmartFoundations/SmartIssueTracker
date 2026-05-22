@@ -1,0 +1,26 @@
+name: This tracker has moved
+description: Do not open new issues here. Use the active SmartFoundations repository instead.
+title: "[Redirect] "
+labels:
+  - redirect
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Smart! issues have moved
+
+        This repository is retained only so old issue links and hosted images keep working.
+
+        Please open all new Smart! bug reports, feature requests, and support issues in the active repository:
+
+        https://github.com/majormer/SmartFoundations/issues/new/choose
+
+        Issues opened here may be closed without triage.
+  - type: checkboxes
+    id: acknowledge
+    attributes:
+      label: Acknowledgement
+      description: Please confirm you understand this is the old tracker.
+      options:
+        - label: I understand this is the old tracker and I should open new Smart! issues in majormer/SmartFoundations instead.
+          required: true
